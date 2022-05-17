@@ -1,2 +1,3 @@
 Hello, world!
 Now I am adding a second line of text
+Here we have a third line of text
