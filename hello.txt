@@ -1,1 +1,2 @@
 Hello, world!
+Now I am adding a second line of text
